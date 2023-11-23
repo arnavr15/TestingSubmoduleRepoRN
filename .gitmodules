@@ -1,0 +1,3 @@
+[submodule "GitSubmoduleRN/LikeMinds-ReactNative-Chat-Sample-App"]
+	path = GitSubmoduleRN/LikeMinds-ReactNative-Chat-Sample-App
+	url = https://github.com/arnavr15/LikeMinds-ReactNative-Chat-Sample-App.git
